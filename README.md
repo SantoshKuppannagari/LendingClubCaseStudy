@@ -17,6 +17,19 @@ The company can utilise this knowledge for risk assessment.
 #### Step 4: Bivaraiate/Multivariate Analysis
 #### Step 5: Results   
 
+## Technologies used
+#### Pandas
+#### Numpy
+#### Matplot
+#### Seaborn
+
+## Conclusion:
+#### Applicants who have less loan but have high interest rate likely to default.
+#### Applicants with smaller business but high loan amount are likely to default.
+
+## Acknowledgement
+#### Used Upgrad class recorded videos.
+#### used youtube when got some random doubts.
 
 ### Contributors
 - Santosh kumar Kuppannagari
