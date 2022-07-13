@@ -1,5 +1,6 @@
-# Lending Club Case Study
+## Lending Club Analysis
 
+# General Info
 ```  
 The main objective is to be able to identify that risky loan applicants (borrower
 refusesto pay or runs away with the money owed) using EDA, so that such loans can be 
