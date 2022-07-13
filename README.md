@@ -10,7 +10,7 @@ Here we performed an analysis to understand the driving factors behind loan defa
 The company can utilise this knowledge for risk assessment. 
 
 ```
-
+## Steps followed to analyse the data
 #### Step 1: Data Cleaning 1  
 #### Step 2: Univariate Analysis
 #### Step 3: Segemented Univariate Analysis
